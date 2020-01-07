@@ -7,7 +7,7 @@ Prework project
 
 ### App Walk-though
 
-<img src="file:///Users/khadijajallow/Documents/prework.gif" width=200><br>
+<img src="https://user-images.githubusercontent.com/51063883/71928510-b23cac00-3165-11ea-826d-6238ee5f90ce.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
